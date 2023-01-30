@@ -1,0 +1,7 @@
+.venv/
+ny_taxi_postgres_data/
+.terraform/**
+**/.terraform/
+**/.terraform*
+**/*.tfstate*
+**/*.csv
